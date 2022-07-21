@@ -1,24 +1,3 @@
-Analista de desenvolvimento Sênior. Com experiência em desenvolvimento FRONT-END e BACK-END.
+<img src="igorfanticheli.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo igorfanticheli">
 
-Habilidades em:
- - HTML
- - CSS/SASS
- - JAVASCRIPT
- - TYPESCRIPT
- - ANGULAR+
- - NODEJS
- - JAVA/SPRINGBOOT
-
-Experiencia com banco de dados SQL e NOSQL: Oracle, SqlServer e mongodb;
-
-Metodologia ágil;
-
-Versionamento Git;
-
-Conhecimentos em arquitetura Monolítica e Microsserviços;
-
-Conhecimentos em cloud, CI/CD;
-
-conhecimentos em: Clean Code, TDD, BDD, POO e ORM;
-
-Nesse repositório, irei demonstrar para vocês as minhas habilidades.
+## Igor Fanticheli
