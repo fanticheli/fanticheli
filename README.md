@@ -2,7 +2,7 @@
 
 # Igor Fanticheli 🚀
     Olá, tudo bem? Bem-vindo ao meu repositório. 
-    Sou programador há doze anos, tenho habilidades com front, back e devops.
+    Sou programador há quatorze anos, tenho habilidades com front, back e devops.
     Atualmente eu trabalho na routeasy como desenvolvedor full-stack sênior. 
     Aqui você pode acompanhar um pouco das minhas habilidades.
     
